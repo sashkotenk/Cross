@@ -1,0 +1,44 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Tracker.Desktop/1.0.0": {
+        "dependencies": {
+          "Tracker.Core": "1.0.0"
+        },
+        "runtime": {
+          "Tracker.Desktop.dll": {}
+        },
+        "resources": {
+          "cs/Tracker.Desktop.resources.dll": {
+            "locale": "cs"
+          }
+        }
+      },
+      "Tracker.Core/1.0.0": {
+        "runtime": {
+          "Tracker.Core.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Tracker.Desktop/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Tracker.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

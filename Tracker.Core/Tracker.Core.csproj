@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <PackageId>AcademicTracker.Core</PackageId>
+    <Version>1.0.0</Version>
+    <Authors>OB</Authors>
+    <Company>KNU</Company>
+    <Description>Core logic for Academic Tracker application</Description>
+  </PropertyGroup>
+
+</Project>
